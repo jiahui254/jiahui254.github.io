@@ -83,9 +83,6 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 - Teaching Assistant
   - *Spring 2024* HT-MGT 433 Tourism Policy and Planning, Prof. Muzzo Uysal
   - *Spring 2024* SCH-MGMT 499F Applied Research Methods in Services Management, Prof. Muzzo Uysal
-  - *Spring 2024* HT-MGT 317 Casino Management, Prof. Albert Assaf
+  - *Sring 2024*, *Fall 2023*, *Spring 2023*, *Fall 2022* HT-MGT 317 Casino Management, Prof. Albert Assaf
   - *Fall 2023* SCH-MGMT 499E Applied Research Methods in Services Management, Prof. Muzzo Uysal
-  - *Fall 2023* HT-MGT 317 Casino Management, Prof. Albert Assaf
-  - *Spring 2023* HT-MGT 317 Casino Management, Prof. Albert Assaf
-  - *Fall 2022* HT-MGT 317 Casino Management, Prof. Albert Assaf
   - *Fall 2022* HT-MGT 387 Information Technology and Social Media in Hospitality and Tourism Management, Prof. Irem Onder Neuhofer
