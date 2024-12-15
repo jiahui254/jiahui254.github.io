@@ -44,10 +44,10 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 </div> -->
 
 ## 📖 Book Chapters
-
+<!--
 - **Wang, J.**, & Ulker, E. (2025) Theory of planned behavior in tourism and hospitality. In Theories and Models in Tourism and Hospitality Research (pp. ). CABI.
 
-- **Wang, J.**, Berbekova, A., & Uysal M. Enhancing competitiveness of SMEs: The role of sustainability and quality of life. In Competitiveness of SMEs in Hospitality and Tourism: A Multidisciplinary Approach (pp. ). 
+- **Wang, J.**, Berbekova, A., & Uysal M. Enhancing competitiveness of SMEs: The role of sustainability and quality of life. In Competitiveness of SMEs in Hospitality and Tourism: A Multidisciplinary Approach (pp. ).  -->
 
 - **Wang, J.**, & Uysal, M. S. (2024). Quality of life and tourism experience. In Handbook of Experience Science (pp. 116-130). Edward Elgar Publishing.
   
@@ -55,10 +55,10 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 
 ## 🖥️ Conferences
-
+<!--
 - Pinar, M., Uysal M., **Wang, J.**, Guder, F. Examining Net Promoter Score (NPS) for Visiting a Destination: A Study of Istanbul, Turkiye. The 6th Conference on Managing Tourism Across Continents (MTCON 2025). Istanbul, Turkey. Apr 30 - May 3, 2025.
   
-- Pinar, M., Uysal M., **Wang, J.**, Guder, F. Examining Net Promoter Score (NPS) for Visiting a Destination: A Study of Istanbul, Turkiye.  The 12th Advances in Hospitality and Tourism Marketing and Management conference. Faro, Portugal. Jun 30 - July 4, 2025.
+- Pinar, M., Uysal M., **Wang, J.**, Guder, F. Examining Net Promoter Score (NPS) for Visiting a Destination: A Study of Istanbul, Turkiye.  The 12th Advances in Hospitality and Tourism Marketing and Management conference. Faro, Portugal. Jun 30 - July 4, 2025. -->
 
 - **Wang, J.**, Coyne, M., Lee, Y., Uysal, M. Global Insights on Scale Development Practice: Shaping Tourism Research. The 54th Travel and Tourism Research Association Annual International Conference (TTRA). Vermont, USA. Jun 11-13, 2024.
 
@@ -76,8 +76,10 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 # 💡 Projects
 
-- Selection of important features and predicting menu choice using machine learning techniques. **Jiahui Wang**, Irem Onder, Yifeng Liang, & Muzzo Uysal
+- Selection of important features and predicting menu choice using machine learning techniques. **Jiahui Wang**, Irem Onder, Yifeng Liang, & Muzzo Uysal.
+  
 -Scale Development Practice: Shaping Tourism/Hospitality Research. **Wang, J.**, Coyne, M., Lee, Y., Uysal, M.
+
 -Dual pathways of dark tourism’s impact on happiness: The mediating role of mixed emotions. **Wang, J.**, Leung, X., Song, X.
 
 
