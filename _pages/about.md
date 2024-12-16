@@ -75,12 +75,11 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 - **Wang, J.**, Wang, S. Residents’ attitude explained by emotional well-being, emotional solidarity the moderation of community attachment. APacCHRIE Conference 2020, Webinar. Oct 28, 2020.
 
 # 💡 Projects
-
-- Selection of important features and predicting menu choice using machine learning techniques. **Jiahui Wang**, Irem Onder, Yifeng Liang, & Muzzo Uysal.
   
 -Scale Development Practice: Shaping Tourism/Hospitality Research. **Wang, J.**, Coyne, M., Lee, Y., Uysal, M.
 
-<!-- -Dual pathways of dark tourism’s impact on happiness: The mediating role of mixed emotions. **Wang, J.**, Leung, X., Song, X. -->
+<!-- -Dual pathways of dark tourism’s impact on happiness: The mediating role of mixed emotions. **Wang, J.**, Leung, X., Song, X. 
+- Selection of important features and predicting menu choice using machine learning techniques. **Jiahui Wang**, Irem Onder, Yifeng Liang, & Muzzo Uysal.-->
 
 
 # 🎖 Honors and Awards
