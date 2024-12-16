@@ -80,7 +80,7 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
   
 -Scale Development Practice: Shaping Tourism/Hospitality Research. **Wang, J.**, Coyne, M., Lee, Y., Uysal, M.
 
--Dual pathways of dark tourism’s impact on happiness: The mediating role of mixed emotions. **Wang, J.**, Leung, X., Song, X.
+<!-- -Dual pathways of dark tourism’s impact on happiness: The mediating role of mixed emotions. **Wang, J.**, Leung, X., Song, X. -->
 
 
 # 🎖 Honors and Awards
