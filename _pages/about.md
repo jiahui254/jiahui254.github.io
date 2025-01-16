@@ -47,7 +47,9 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 <!--
 - **Wang, J.**, & Ulker, E. (2025) Theory of planned behavior in tourism and hospitality. In Theories and Models in Tourism and Hospitality Research (pp. ). CABI.
 
-- **Wang, J.**, Berbekova, A., & Uysal M. Enhancing competitiveness of SMEs: The role of sustainability and quality of life. In Competitiveness of SMEs in Hospitality and Tourism: A Multidisciplinary Approach (pp. ).  -->
+- **Wang, J.**, Berbekova, A., & Uysal M. Enhancing competitiveness of SMEs: The role of sustainability and quality of life. In Competitiveness of SMEs in Hospitality and Tourism: A Multidisciplinary Approach (pp. ).  
+
+- Uysal, M., & **Wang, J.** (2025). Quality of life and cultural and heritage tourism. In X. Matteucci & S. Moretti (Eds.), The future of cultural tourism (pp. [insert page range]). Channel View Publications. -->
 
 - **Wang, J.**, & Uysal, M. S. (2024). Quality of life and tourism experience. In Handbook of Experience Science (pp. 116-130). Edward Elgar Publishing.
   
