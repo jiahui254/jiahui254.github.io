@@ -33,7 +33,7 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-- Uysal, M., Berbekova, A., & **Wang, J.** (2025). Quality-of-life: A critical examination of research progress. [Tourism Management, 107, 105070.] (https://doi.org/10.1016/j.tourman.2024.105070)
+- Uysal, M., Berbekova, A., & **Wang, J.** (2025). Quality-of-life: A critical examination of research progress. [Tourism Management, 107, 105070.](https://doi.org/10.1016/j.tourman.2024.105070)
   
 - Wang, S., Berbekova, A., Uysal, M., & **Wang, J.** (2022). Emotional Solidarity and Co-creation of Experience as Determinants of Environmentally Responsible Behavior: A Stimulus-Organism-Response Theory Perspective. [Journal of Travel Research, 00472875221146786.](https://doi.org/10.1177/00472875221146786)
 
