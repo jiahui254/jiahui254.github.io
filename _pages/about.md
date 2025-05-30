@@ -33,6 +33,8 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+- **Wang, J.**, Leung, X. Y., & Song, X. (2025). Dual pathways of dark tourism's impact on tourists' happiness: The mediating role of mixed emotions. [Journal of Hospitality and Tourism Management, 63, 247-258.](https://doi.org/10.1016/j.jhtm.2025.05.004)
+
 - Uysal, M., Berbekova, A., & **Wang, J.** (2025). Quality-of-life: A critical examination of research progress. [Tourism Management, 107, 105070.](https://doi.org/10.1016/j.tourman.2024.105070)
   
 - Wang, S., Berbekova, A., Uysal, M., & **Wang, J.** (2022). Emotional Solidarity and Co-creation of Experience as Determinants of Environmentally Responsible Behavior: A Stimulus-Organism-Response Theory Perspective. [Journal of Travel Research, 00472875221146786.](https://doi.org/10.1177/00472875221146786)
@@ -47,9 +49,9 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 <!--
 - **Wang, J.**, & Ulker, E. (2025) Theory of planned behavior in tourism and hospitality. In Theories and Models in Tourism and Hospitality Research (pp. ). CABI.
 
-- **Wang, J.**, Berbekova, A., & Uysal M. Enhancing competitiveness of SMEs: The role of sustainability and quality of life. In Competitiveness of SMEs in Hospitality and Tourism: A Multidisciplinary Approach (pp. ).  
+- **Wang, J.**, Berbekova, A., & Uysal M. Enhancing competitiveness of SMEs: The role of sustainability and quality of life. In Competitiveness of SMEs in Hospitality and Tourism: A Multidisciplinary Approach (pp. ). --> 
 
-- Uysal, M., & **Wang, J.** (2025). Quality of life and cultural and heritage tourism. In X. Matteucci & S. Moretti (Eds.), The future of cultural tourism (pp. [insert page range]). Channel View Publications. -->
+- Uysal, M., & **Wang, J.** (2025). Quality of life and cultural and heritage tourism. In X. Matteucci & S. Moretti (Eds.), The future of cultural tourism (pp. [insert page range]). Channel View Publications. 
 
 - **Wang, J.**, & Uysal, M. S. (2024). Quality of life and tourism experience. In Handbook of Experience Science (pp. 116-130). Edward Elgar Publishing.
   
@@ -57,9 +59,9 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 
 ## 🖥️ Conferences
-<!--
+
 - Uysal M., **Wang, J.**, Pinar, M., Guder, F. Predictors of Net Promoter Scores (NPS) of recommending Istanbul as a historical, cultural, or vacation destination. The 6th Conference on Managing Tourism Across Continents (MTCON 2025). Istanbul, Turkey. Apr 30 - May 3, 2025.
-  
+- <!--
 - Pinar, M., Uysal M., **Wang, J.**, Guder, F. Examining Net Promoter Score (NPS) for Visiting a Destination: A Study of Istanbul, Turkiye.  The 12th Advances in Hospitality and Tourism Marketing and Management conference. Faro, Portugal. Jun 30 - July 4, 2025. -->
 
 - **Wang, J.**, Pinar, M., Uysal M., & Guder, F. The determinants of Net Promoter Score (NPS) for Istanbul as a destination. The 30th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. Texas, USA. Jan 2-4, 2025.
@@ -82,12 +84,12 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
   
 -Scale Development Practice: Shaping Tourism/Hospitality Research. **Wang, J.**, Coyne, M., Lee, Y., Uysal, M.
 
-<!-- -Dual pathways of dark tourism’s impact on happiness: The mediating role of mixed emotions. **Wang, J.**, Leung, X., Song, X. 
+<!-- 
 - Selection of important features and predicting menu choice using machine learning techniques. **Jiahui Wang**, Irem Onder, Yifeng Liang, & Muzzo Uysal.-->
 
 
 # 🎖 Honors and Awards
-
+- *2025* UMass Amherst Graduate Student Government (GSG) Research and Travel Grant
 - *2024* UMass Amherst Graduate Student Government (GSG) Research and Travel Grant
 - *2022 - Present* Isenberg School of Management Doctoral Assistantship
 - *2022 - Present* Isenberg School of Management Doctoral Travel Grant
