@@ -60,10 +60,11 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 ## 🖥️ Conferences
 
-- Uysal M., **Wang, J.**, Pinar, M., Guder, F. Predictors of Net Promoter Scores (NPS) of recommending Istanbul as a historical, cultural, or vacation destination. The 6th Conference on Managing Tourism Across Continents (MTCON 2025). Istanbul, Turkey. Apr 30 - May 3, 2025.
-- <!--
+ <!--
 - Pinar, M., Uysal M., **Wang, J.**, Guder, F. Examining Net Promoter Score (NPS) for Visiting a Destination: A Study of Istanbul, Turkiye.  The 12th Advances in Hospitality and Tourism Marketing and Management conference. Faro, Portugal. Jun 30 - July 4, 2025. -->
 
+- Uysal M., **Wang, J.**, Pinar, M., Guder, F. Predictors of Net Promoter Scores (NPS) of recommending Istanbul as a historical, cultural, or vacation destination. The 6th Conference on Managing Tourism Across Continents (MTCON 2025). Istanbul, Turkey. Apr 30 - May 3, 2025.
+  
 - **Wang, J.**, Pinar, M., Uysal M., & Guder, F. The determinants of Net Promoter Score (NPS) for Istanbul as a destination. The 30th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. Texas, USA. Jan 2-4, 2025.
 
 - **Wang, J.**, Coyne, M., Lee, Y., Uysal, M. Global Insights on Scale Development Practice: Shaping Tourism Research. The 54th Travel and Tourism Research Association Annual International Conference (TTRA). Vermont, USA. Jun 11-13, 2024.
