@@ -60,8 +60,7 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 ## 🖥️ Conferences
 
-<!--
-- Pinar, M., Uysal M., **Wang, J.**, Guder, F. Examining Net Promoter Score (NPS) for Visiting a Destination: A Study of Istanbul, Turkiye.  The 12th Advances in Hospitality and Tourism Marketing and Management conference. Faro, Portugal. Jun 30 - July 4, 2025. -->
+- Pinar, M., Uysal M., **Wang, J.**, Guder, F. Examining Net Promoter Score (NPS) for Visiting a Destination: A Study of Istanbul, Turkiye.  The 12th Advances in Hospitality and Tourism Marketing and Management conference. Faro, Portugal. Jun 30 - July 4, 2025. 
 
 - **Wang, J.**, Onder, I., Liang, Y., & Uysal M. Enhancing sustainable eating behavior: The role of AI in menu design. 2025 ICHRIE Global Conference. Indiana, USA. Jun 18-20, 2025.
 
