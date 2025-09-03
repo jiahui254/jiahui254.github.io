@@ -33,7 +33,7 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-- **Wang, J.**, Coyne, M., Lee, Y., & Uysal, M. (2025). Scale Development Practice in Hospitality and Tourism: Shaping the Field. International Journal of Contemporary Hospitality Management. (Forthcoming)  
+- **Wang, J.**, Coyne, M., Lee, Y., & Uysal, M. (2025). Scale Development Practice in Hospitality and Tourism: Shaping the Field. [International Journal of Contemporary Hospitality Management.] (Forthcoming) 
 
 - **Wang, J.**, Leung, X. Y., & Song, X. (2025). Dual pathways of dark tourism's impact on tourists' happiness: The mediating role of mixed emotions. [Journal of Hospitality and Tourism Management, 63, 247-258.](https://doi.org/10.1016/j.jhtm.2025.05.004)
 
@@ -86,13 +86,12 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 # 💡 Projects
   
--Scale Development Practice: Shaping Tourism/Hospitality Research. **Wang, J.**, Coyne, M., Lee, Y., Uysal, M.
-
 <!-- 
 - Selection of important features and predicting menu choice using machine learning techniques. **Jiahui Wang**, Irem Onder, Yifeng Liang, & Muzzo Uysal.-->
 
 
 # 🎖 Honors and Awards
+- *2025* NENA ICHRIE Summer Conference Scholarship
 - *2025* UMass Amherst Graduate Student Government (GSG) Research and Travel Grant
 - *2024* UMass Amherst Graduate Student Government (GSG) Research and Travel Grant
 - *2022 - Present* Isenberg School of Management Doctoral Assistantship
@@ -101,7 +100,7 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 - *2020* Runner-up for the Best Visual Paper Presented Awards (51st TTRA)
 
 # 🎓 Educations
-- *2022.09 - 2026.06*, University of Massachusetts Amherst. *Ph.D. in Hospitality & Tourism Management*
+- *2022.09 - 2026.06(Expected)*, University of Massachusetts Amherst. *Ph.D. in Hospitality & Tourism Management*
 - *2019.09 - 2022.06*, Shandong University. *Master in Tourism Management*
 - *2015.09 - 2019.06*, Central China Normal University. *Bachelor in Tourism Management*
 
