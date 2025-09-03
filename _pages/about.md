@@ -33,6 +33,8 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+- **Wang, J.**, Coyne, M., Lee, Y., & Uysal, M. (2025). Scale Development Practice in Hospitality and Tourism: Shaping the Field. International Journal of Contemporary Hospitality Management. (Forthcoming)  
+
 - **Wang, J.**, Leung, X. Y., & Song, X. (2025). Dual pathways of dark tourism's impact on tourists' happiness: The mediating role of mixed emotions. [Journal of Hospitality and Tourism Management, 63, 247-258.](https://doi.org/10.1016/j.jhtm.2025.05.004)
 
 - Uysal, M., Berbekova, A., & **Wang, J.** (2025). Quality-of-life: A critical examination of research progress. [Tourism Management, 107, 105070.](https://doi.org/10.1016/j.tourman.2024.105070)
