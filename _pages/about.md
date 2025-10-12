@@ -61,6 +61,7 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 
 ## 🖥️ Conferences
+- **Wang, J.**, Cinar, S., Sivuk, D., & Uysal M. A cross-cultural comparison of medical tourists’ preferences: A Case of Turkiye. 2025 NETtra Conference. New Hampshire, USA. Oct 7-10, 2025.
 
 - Pinar, M., Uysal M., Guder, F., & **Wang, J.** Examining Net Promoter Score (NPS) for Visiting a Destination: A Study of Istanbul, Turkiye.  The 12th Advances in Hospitality and Tourism Marketing and Management conference. Faro, Portugal. Jun 30 - July 4, 2025. 
 
