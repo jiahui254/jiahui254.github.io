@@ -33,7 +33,9 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-- **Wang, J.**, Coyne, M., Lee, Y., & Uysal, M. (2025). Scale Development Practice in Hospitality and Tourism: Shaping the Field. [International Journal of Contemporary Hospitality Management.] (Forthcoming) 
+- **Wang, J.**, Uysal, M., Berbekova, A., & Wang, S. (2025). Narrative formats in virtual dark tourism: impacts on generativity. [Current Issues in Tourism, 1-9.]
+  
+- **Wang, J.**, Coyne, M., Lee, Y., & Uysal, M. (2026). Scale development practice in hospitality and tourism: shaping the field. International Journal of Contemporary Hospitality Management, 38(1), 53-73.
 
 - **Wang, J.**, Leung, X. Y., & Song, X. (2025). Dual pathways of dark tourism's impact on tourists' happiness: The mediating role of mixed emotions. [Journal of Hospitality and Tourism Management, 63, 247-258.](https://doi.org/10.1016/j.jhtm.2025.05.004)
 
@@ -49,9 +51,9 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 ## 📖 Book Chapters
 <!--
-- **Wang, J.**, & Ulker, E. (2025) Theory of planned behavior in tourism and hospitality. In Theories and Models in Tourism and Hospitality Research (pp. ). CABI.
 
 - **Wang, J.**, Berbekova, A., & Uysal M. Enhancing competitiveness of SMEs: The role of sustainability and quality of life. In Competitiveness of SMEs in Hospitality and Tourism: A Multidisciplinary Approach (pp. ). --> 
+- **Wang, J.**, & Ulker, E. (2025) Theory of planned behavior in tourism and hospitality. In Theories and Models in Tourism and Hospitality Research (pp.214-221). CABI. https://doi.org/10.1079/9781800625822.0033 
 
 - Uysal, M., & **Wang, J.** (2025). Quality of life and cultural and heritage tourism. In X. Matteucci & S. Moretti (Eds.), The future of cultural tourism (pp. [insert page range]). Channel View Publications. 
 
@@ -61,6 +63,8 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 
 ## 🖥️ Conferences
+- **Wang, J.**, Liang, Y., Uysal, M., & Milne R. G. The conceptualization of the travel bucket list meaning and its measurement. The 30th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. Alabama, USA. Jan 8-10, 2026.
+  
 - **Wang, J.**, Cinar, S., Sivuk, D., & Uysal M. A cross-cultural comparison of medical tourists’ preferences: A Case of Turkiye. 2025 NETtra Conference. New Hampshire, USA. Oct 7-10, 2025.
 
 - Pinar, M., Uysal M., Guder, F., & **Wang, J.** Examining Net Promoter Score (NPS) for Visiting a Destination: A Study of Istanbul, Turkiye.  The 12th Advances in Hospitality and Tourism Marketing and Management conference. Faro, Portugal. Jun 30 - July 4, 2025. 
@@ -108,6 +112,7 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 # 👩‍🏫 Teaching
 
 - Instructor
+  - *Fall 2025* Tourism Policy and Planning
   - *Spring 2025* Tourism Policy and Planning
   
 - Teaching Assistant
