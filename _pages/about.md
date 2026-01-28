@@ -33,7 +33,7 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-- **Wang, J.**, Uysal, M., Berbekova, A., & Wang, S. (2025). Narrative formats in virtual dark tourism: impacts on generativity. [Current Issues in Tourism, 1-9.]
+- **Wang, J.**, Uysal, M., Berbekova, A., & Wang, S. (2025). Narrative formats in virtual dark tourism: impacts on generativity. Current Issues in Tourism, 1-9.
   
 - **Wang, J.**, Coyne, M., Lee, Y., & Uysal, M. (2026). Scale development practice in hospitality and tourism: shaping the field. International Journal of Contemporary Hospitality Management, 38(1), 53-73.
 
