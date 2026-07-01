@@ -99,7 +99,7 @@ https://doi.org/10.1177/00472875221146786](https://doi.org/10.1177/0047287522114
 
 - **Wang, J.**, Wang, S. Residents’ attitude explained by emotional well-being, emotional solidarity the moderation of community attachment. APacCHRIE Conference 2020, Webinar. Oct 28, 2020.
 
-# 💡 Projects
+<!-- # 💡 Projects -->
   
 <!-- 
 - Selection of important features and predicting menu choice using machine learning techniques. **Jiahui Wang**, Irem Onder, Yifeng Liang, & Muzzo Uysal.-->
