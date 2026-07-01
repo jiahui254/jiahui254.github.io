@@ -22,8 +22,10 @@ Jiahui Wang is a Ph.D. candidate in Hospitality and Tourism Management - Isenber
 Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisure time.
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉🎉 Jiahui Wang is officially headed to UMass Amherst to pursue her PhD in Hospitality and Tourism Management, Isenberg School of Management.
+
+- *2026.05*: &nbsp;🎉🎉 Jiahui Wang passed her dissertation proposal.
 - *2024.08*: &nbsp;🎉🎉 Jiahui Wang passed her qualify exam.
+- *2022.09*: &nbsp;🎉🎉 Jiahui Wang is officially headed to UMass Amherst to pursue her PhD in Hospitality and Tourism Management, Isenberg School of Management.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📢 Publications
@@ -33,15 +35,20 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-- **Wang, J.**, Uysal, M., Berbekova, A., & Wang, S. (2025). Narrative formats in virtual dark tourism: impacts on generativity. Current Issues in Tourism, 1-9.
-  
-- **Wang, J.**, Coyne, M., Lee, Y., & Uysal, M. (2026). Scale development practice in hospitality and tourism: shaping the field. International Journal of Contemporary Hospitality Management, 38(1), 53-73.
+- **Wang, J.**, Onder, I., Liang, Y., & Uysal, M. (2026). Designing smart menus: A multi-method exploration of AI integration in hospitality guest experience and operations. *International Journal of Hospitality Management, 139*, 104777. [https://doi.org/10.1016/j.ijhm.2026.104777](https://doi.org/10.1016/j.ijhm.2026.104777)
 
-- **Wang, J.**, Leung, X. Y., & Song, X. (2025). Dual pathways of dark tourism's impact on tourists' happiness: The mediating role of mixed emotions. [Journal of Hospitality and Tourism Management, 63, 247-258.](https://doi.org/10.1016/j.jhtm.2025.05.004)
+- **Wang, J.**, Cinar, S., Sivuk, D., & Uysal, M. (2026). A cross-cultural comparison of medical tourists’ preferences: A case of Turkiye. *Journal of Quality Assurance in Hospitality & Tourism*, 1–15. [https://doi.org/10.1080/1528008X.2026.2632192](https://doi.org/10.1080/1528008X.2026.2632192)
 
-- Uysal, M., Berbekova, A., & **Wang, J.** (2025). Quality-of-life: A critical examination of research progress. [Tourism Management, 107, 105070.](https://doi.org/10.1016/j.tourman.2024.105070)
-  
-- Wang, S., Berbekova, A., Uysal, M., & **Wang, J.** (2022). Emotional Solidarity and Co-creation of Experience as Determinants of Environmentally Responsible Behavior: A Stimulus-Organism-Response Theory Perspective. [Journal of Travel Research, 00472875221146786.](https://doi.org/10.1177/00472875221146786)
+- **Wang, J.**, Coyne, M., Lee, Y., & Uysal, M. (2026). Scale development practice in hospitality and tourism: Shaping the field. *International Journal of Contemporary Hospitality Management, 38*(1), 53–73. [https://doi.org/10.1108/IJCHM-02-2025-0220](https://doi.org/10.1108/IJCHM-02-2025-0220)
+
+- **Wang, J.**, Uysal, M., Berbekova, A., & Wang, S. (2025). Narrative formats in virtual dark tourism: Impacts on generativity. *Current Issues in Tourism*, 1–9. [https://doi.org/10.1080/13683500.2025.2602027](https://doi.org/10.1080/13683500.2025.2602027)
+
+- **Wang, J.**, Leung, X. Y., & Song, X. (2025). Dual pathways of dark tourism’s impact on tourists’ happiness: The mediating role of mixed emotions. *Journal of Hospitality and Tourism Management, 63*, 247–258. [https://doi.org/10.1016/j.jhtm.2025.05.004](https://doi.org/10.1016/j.jhtm.2025.05.004)
+
+- Uysal, M., Berbekova, A., & **Wang, J.** (2025). Quality-of-life: A critical examination of research progress. *Tourism Management, 107*, 105070. [https://doi.org/10.1016/j.tourman.2024.105070](https://doi.org/10.1016/j.tourman.2024.105070)
+
+- Wang, S., Berbekova, A., Uysal, M., & **Wang, J.** (2022). Emotional solidarity and co-creation of experience as determinants of environmentally responsible behavior: A Stimulus-Organism-Response theory perspective. *Journal of Travel Research, 63*(1), 115–135. [
+https://doi.org/10.1177/00472875221146786](https://doi.org/10.1177/00472875221146786)
 
   
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -51,11 +58,11 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 ## 📖 Book Chapters
 <!--
-
 - **Wang, J.**, Berbekova, A., & Uysal M. Enhancing competitiveness of SMEs: The role of sustainability and quality of life. In Competitiveness of SMEs in Hospitality and Tourism: A Multidisciplinary Approach (pp. ). --> 
+
 - **Wang, J.**, & Ulker, E. (2025) Theory of planned behavior in tourism and hospitality. In Theories and Models in Tourism and Hospitality Research (pp.214-221). CABI. https://doi.org/10.1079/9781800625822.0033 
 
-- Uysal, M., & **Wang, J.** (2025). Quality of life and cultural and heritage tourism. In X. Matteucci & S. Moretti (Eds.), The future of cultural tourism (pp. [insert page range]). Channel View Publications. 
+- Uysal, M., & **Wang, J.** (2025). Quality of life and cultural and heritage tourism. In X. Matteucci & S. Moretti (Eds.), The future of cultural tourism. Channel View Publications. 
 
 - **Wang, J.**, & Uysal, M. S. (2024). Quality of life and tourism experience. In Handbook of Experience Science (pp. 116-130). Edward Elgar Publishing.
   
@@ -63,6 +70,9 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 
 ## 🖥️ Conferences
+
+- Sivuk, D., **Wang, J.**, Uysal M., & Turk, E. S. Living here, seeking care there: Acculturation among Turkish immigrants in the U.S. and their medical tourism destination choice. The 56th Travel and Tourism Research Association Annual International Conference (TTRA). South Carolina, USA. Jun 24-26, 2026.
+
 - **Wang, J.**, Liang, Y., Uysal, M., & Milne R. G. The conceptualization of the travel bucket list meaning and its measurement. The 30th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. Alabama, USA. Jan 8-10, 2026.
   
 - **Wang, J.**, Cinar, S., Sivuk, D., & Uysal M. A cross-cultural comparison of medical tourists’ preferences: A Case of Turkiye. 2025 NETtra Conference. New Hampshire, USA. Oct 7-10, 2025.
@@ -96,6 +106,8 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 
 
 # 🎖 Honors and Awards
+
+- *2026* Isenberg School of Management Outstanding PhD Student Research Award
 - *2025* NENA ICHRIE Summer Conference Scholarship
 - *2025* UMass Amherst Graduate Student Government (GSG) Research and Travel Grant
 - *2024* UMass Amherst Graduate Student Government (GSG) Research and Travel Grant
@@ -105,13 +117,14 @@ Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisu
 - *2020* Runner-up for the Best Visual Paper Presented Awards (51st TTRA)
 
 # 🎓 Educations
-- *2022.09 - 2026.06(Expected)*, University of Massachusetts Amherst. *Ph.D. in Hospitality & Tourism Management*
+- *2022.09 - Present*, University of Massachusetts Amherst. *Ph.D. in Hospitality & Tourism Management*
 - *2019.09 - 2022.06*, Shandong University. *Master in Tourism Management*
 - *2015.09 - 2019.06*, Central China Normal University. *Bachelor in Tourism Management*
 
 # 👩‍🏫 Teaching
 
 - Instructor
+  - *Spring 2026* Wellness and Wellbeing in Service Industries
   - *Fall 2025* Tourism Policy and Planning
   - *Spring 2025* Tourism Policy and Planning
   
