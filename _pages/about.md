@@ -21,12 +21,18 @@ Jiahui Wang is a Ph.D. candidate in Hospitality and Tourism Management - Isenber
 
 Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisure time.
 
+<!--
 # 🔥 News
 
 - *2026.05*: &nbsp;🎉🎉 Jiahui Wang passed her dissertation proposal.
 - *2024.08*: &nbsp;🎉🎉 Jiahui Wang passed her qualify exam.
-- *2022.09*: &nbsp;🎉🎉 Jiahui Wang is officially headed to UMass Amherst to pursue her PhD in Hospitality and Tourism Management, Isenberg School of Management.
+- *2022.09*: &nbsp;🎉🎉 Jiahui Wang is officially headed to UMass Amherst to pursue her PhD in Hospitality and Tourism Management, Isenberg School of Management. -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 🎓 Educations
+- *2022.09 - Present*, University of Massachusetts Amherst. *Ph.D. in Hospitality & Tourism Management*
+- *2019.09 - 2022.06*, Shandong University. *Master in Tourism Management*
+- *2015.09 - 2019.06*, Central China Normal University. *Bachelor in Tourism Management*
 
 # 📢 Publications
 
@@ -116,11 +122,6 @@ https://doi.org/10.1177/00472875221146786](https://doi.org/10.1177/0047287522114
 - *2021* Excellent Student Cadre (Awarded by Shandong University)
 - *2020* Runner-up for the Best Visual Paper Presented Awards (51st TTRA)
 
-# 🎓 Educations
-- *2022.09 - Present*, University of Massachusetts Amherst. *Ph.D. in Hospitality & Tourism Management*
-- *2019.09 - 2022.06*, Shandong University. *Master in Tourism Management*
-- *2015.09 - 2019.06*, Central China Normal University. *Bachelor in Tourism Management*
-
 # 👩‍🏫 Teaching
 
 - Instructor
@@ -134,3 +135,12 @@ https://doi.org/10.1177/00472875221146786](https://doi.org/10.1177/0047287522114
   - *Sring 2024*, *Fall 2023*, *Spring 2023*, *Fall 2022* HT-MGT 317 Casino Management, Prof. Albert Assaf
   - *Fall 2023* SCH-MGMT 499E Applied Research Methods in Services Management, Prof. Muzzo Uysal
   - *Fall 2022* HT-MGT 387 Information Technology and Social Media in Hospitality and Tourism Management, Prof. Irem Onder Neuhofer
+ 
+# 🤝 Service
+
+- Adhoc reviewer
+  - _Tourism Management_
+  - _Journal of Sustainable Tourism_
+  - _Journal of Hospitality and Tourism Management_
+  - _Information Technology & Tourism_
+  - _ICHRIE_
