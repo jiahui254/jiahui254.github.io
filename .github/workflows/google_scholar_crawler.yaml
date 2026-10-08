@@ -2,11 +2,11 @@ name: Get Citation Data
 
 on: 
   schedule:
-    - cron: '0 8 * * *' 
-  workflow_dispatch:      
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write        
+  contents: write
 
 jobs:
   build:
@@ -17,12 +17,13 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
+        python-version: '3.11'
 
     - name: Run Crawler
       run: |
         cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
+        pip install "bibtexparser<2.0.0"  # 强制安装 1.x 版本的 bibtexparser
+        pip install -r requirements.txt
         python3 main.py
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
